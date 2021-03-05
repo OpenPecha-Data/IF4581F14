@@ -1,16 +1,17 @@
-id: opecha:P007001
+id: P007001
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2CZ8065
   title: སྙིང་ཐིག་སྔོན་འགྲོའི་འབྲུ་འགྲེལ་རྣམ་མཁྱེན་ཐར་གླིང་བགྲོད་པའི་ཐེམ་སྐས་
-  volume:
+  author: ''
+  volumes:
     825a62185b22486eae7b51993d1c8b96:
       image_group_id: I1PD96640
       title: Volume 1 of snying thig sngon 'gro'i 'bru 'grel rnam mkhyen thar gling
         bgrod pa'i them skas
       volume_number: 1
       total_pages: 212
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྙིང་ཐིག་སྔོན་འགྲོའི་འབྲུ་འགྲེལ་རྣམ་མཁྱེན་ཐར་གླིང་བགྲོད་པའི་ཐེམ་སྐས་
   author: ''
